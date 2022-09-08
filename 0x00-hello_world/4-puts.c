@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * main - Entry point and like a method in js
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  */
