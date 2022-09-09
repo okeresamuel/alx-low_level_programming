@@ -3,8 +3,9 @@
 #include <stdio.h>
 
 /* more headers goes there */
-
+/* main is like a method which prints each nums based on a condition */
 /* betty style doc for function main goes there */
+
 int main(void)
 {
 	int n;
