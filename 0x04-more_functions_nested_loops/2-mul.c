@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * multiply - returns the product of its parameters
- * a: int type number
- * b: int type number
+ * multipy - returns the product of its parameters
+ * @a: int type number
+ * @b: int type number
  * Return:0
  */
 
